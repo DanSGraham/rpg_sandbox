@@ -18,3 +18,6 @@ pass
 
 class Other:
 pass
+
+class Agent:
+pass
